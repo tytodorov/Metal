@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Metal",
+  "ProjectGuid": "a9fe0385-63d6-4882-b35a-c80bf4c3c87f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Metal",
+  "DisplayName": "Metal",
+  "Author": "",
+  "Description": "Metal",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5d64866a-7d77-4c05-abf7-02bb90254ee8}",
+  "WP8ProductID": "{f9262e82-b711-40e7-ab5f-dcac5f767302}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Metal",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
